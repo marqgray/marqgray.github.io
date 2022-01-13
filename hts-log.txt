@@ -13,38 +13,38 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 17:47:59	Warning: 	Retry after error -4 (No data (connection closed)) at link marqgray.github.io/wp-json/wp/v2/pages/2167 (from marqgray.github.io/about-me/)
 17:47:59	Warning: 	Retry after error -4 (No data (connection closed)) at link marqgray.github.io/?p=2167 (from marqgray.github.io/about-me/)
 17:48:01	Warning: 	Moved Permanently for marqgray.github.io/?p=2310
-17:48:01	Warning: 	File has moved from marqgray.github.io/?p=2310 to http://marqgray.github.io/contact/
+17:48:01	Warning: 	File has moved from marqgray.github.io/?p=2310 to https://marqgray.github.io/contact/
 17:48:01	Warning: 	Moved Permanently for marqgray.github.io/?p=3628
-17:48:01	Warning: 	File has moved from marqgray.github.io/?p=3628 to http://marqgray.github.io/portfolio/web-music-player-ts/
+17:48:01	Warning: 	File has moved from marqgray.github.io/?p=3628 to https://marqgray.github.io/portfolio/web-music-player-ts/
 17:48:03	Warning: 	Moved Permanently for marqgray.github.io/?p=3626
-17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3626 to http://marqgray.github.io/portfolio/meal-finder-ts/
+17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3626 to https://marqgray.github.io/portfolio/meal-finder-ts/
 17:48:03	Warning: 	Moved Permanently for marqgray.github.io/?p=3624
-17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3624 to http://marqgray.github.io/portfolio/javascript-dom-array-methods/
+17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3624 to https://marqgray.github.io/portfolio/javascript-dom-array-methods/
 17:48:03	Warning: 	Moved Permanently for marqgray.github.io/?p=3622
-17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3622 to http://marqgray.github.io/portfolio/infinite-scroll-blog-ts/
+17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3622 to https://marqgray.github.io/portfolio/infinite-scroll-blog-ts/
 17:48:03	Warning: 	Moved Permanently for marqgray.github.io/?p=3620
-17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3620 to http://marqgray.github.io/portfolio/hangman-game-ts/
+17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3620 to https://marqgray.github.io/portfolio/hangman-game-ts/
 17:48:03	Warning: 	Moved Permanently for marqgray.github.io/?p=3618
-17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3618 to http://marqgray.github.io/portfolio/expense-tracker-ts/
+17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3618 to https://marqgray.github.io/portfolio/expense-tracker-ts/
 17:48:03	Warning: 	Moved Permanently for marqgray.github.io/?p=3616
-17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3616 to http://marqgray.github.io/portfolio/exchange-rate-calculator-ts/
+17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3616 to https://marqgray.github.io/portfolio/exchange-rate-calculator-ts/
 17:48:03	Warning: 	Moved Permanently for marqgray.github.io/?p=3614
-17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3614 to http://marqgray.github.io/portfolio/custom-video-player-ts/
+17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3614 to https://marqgray.github.io/portfolio/custom-video-player-ts/
 17:48:03	Warning: 	Moved Permanently for marqgray.github.io/?p=3612
-17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3612 to http://marqgray.github.io/portfolio/movie-seat-booking-js/
+17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3612 to https://marqgray.github.io/portfolio/movie-seat-booking-js/
 17:48:03	Warning: 	Moved Permanently for marqgray.github.io/?p=3610
-17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3610 to http://marqgray.github.io/portfolio/form-validator-js/
+17:48:03	Warning: 	File has moved from marqgray.github.io/?p=3610 to https://marqgray.github.io/portfolio/form-validator-js/
 17:48:03	Warning: 	Retry after error -4 (No data (connection closed)) at link marqgray.github.io/wp-content/themes/kalium/assets/vendors/font-awesome/webfonts/fa-solid-900.eot? (from marqgray.github.io/wp-content/themes/kalium/assets/vendors/font-awesome/css/all.min.css?ver=3.4.4.001)
 17:48:04	Warning: 	Retry after error -4 (No data (connection closed)) at link marqgray.github.io/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888 (from marqgray.github.io/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.14)
 17:48:04	Warning: 	Retry after error -4 (No data (connection closed)) at link marqgray.github.io/wp-content/plugins/revslider/public/assets/css/closedhand.cur (from marqgray.github.io/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.14)
 17:48:04	Error: 	"Not Found" (404) at link marqgray.github.io/dummy.png (from marqgray.github.io/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.14)
 17:48:04	Warning: 	Moved Permanently for marqgray.github.io/origin=https://
 17:48:04	Warning: 	Redirected link is identical because of 'URL Hack' option: marqgray.github.io/origin=https:// and marqgray.github.io/origin=https:/
-17:48:04	Warning: 	File has moved from marqgray.github.io/origin=https:// to http://marqgray.github.io/origin=https:/
+17:48:04	Warning: 	File has moved from marqgray.github.io/origin=https:// to https://marqgray.github.io/origin=https:/
 17:48:04	Warning: 	Retry after error -4 (No data (connection closed)) at link marqgray.github.io/about-me/feed/ (from marqgray.github.io/about-me/)
 17:48:04	Warning: 	Retry after error -4 (No data (connection closed)) at link marqgray.github.io/wp-content/plugins/js_composer/assets/vc/alert.png (from marqgray.github.io/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.8.0)
 17:48:04	Warning: 	Moved Permanently for marqgray.github.io/?p=2167
-17:48:04	Warning: 	File has moved from marqgray.github.io/?p=2167 to http://marqgray.github.io/about-me/
+17:48:04	Warning: 	File has moved from marqgray.github.io/?p=2167 to https://marqgray.github.io/about-me/
 17:48:04	Warning: 	Retry after error -4 (No data (connection closed)) at link marqgray.github.io/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888 (from marqgray.github.io/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.14)
 
 HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 256 links scanned, 230 files written (7072905 bytes overall) [4896450 bytes received at 89026 bytes/sec], 2944591 bytes transferred using HTTP compression in 96 files, ratio 21%, 13.4 requests per connection
