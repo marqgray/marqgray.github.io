@@ -1,0 +1,1 @@
+<HTML><HEAD><META HTTP-EQUIV="Refresh" CONTENT="0; URL=../wp-login.php@redirect_to=http_253A_252F_252Fmarqgray.github.io_252Fwp-admin_252Fauthorize-application.php&reauth=1"><TITLE>302 File moved</TITLE></HEAD></HTML>
