@@ -1,1 +1,0 @@
-{"description":"","hierarchical":true,"name":"Pages","slug":"page","taxonomies":[],"rest_base":"pages","_links":{"collection":[{"href":"../types"}],"wp:items":[{"href":"../pages"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}

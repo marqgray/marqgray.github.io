@@ -1,1 +1,0 @@
-{"description":"","hierarchical":false,"name":"Portfolio","slug":"portfolio","taxonomies":["portfolio_category","portfolio_tag"],"rest_base":"portfolio","_links":{"collection":[{"href":"../../types"}],"wp:items":[{"href":"../../portfolio"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
