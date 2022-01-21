@@ -1,0 +1,41 @@
+<!DOCTYPE html><!-- saved from url=(0078)http://marqgray.github.io/portfolio/projects/example-meal-finder-ts/index.html --><meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+    <link
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+            rel="stylesheet"
+    />
+    <link href="style.css" rel="stylesheet"/>
+    <title>Meal Finder</title>
+</head>
+<body>
+<div class="container">
+    <h1>Meal Finder</h1>
+    <div class="flex">
+        <form class="flex" id="submit">
+            <input
+                    id="search"
+                    placeholder="Search for meals or keywords"
+                    type="text"
+            />
+            <button class="search-btn" type="submit">
+                <i class="fas fa-search"></i>
+            </button>
+        </form>
+        <button class="random-btn" id="random">
+            <i class="fas fa-random"></i>
+        </button>
+    </div>
+
+    <div id="result-heading"></div>
+    <div class="meals" id="meals"></div>
+    <div id="single-meal"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
