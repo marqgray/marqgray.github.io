@@ -1,0 +1,1 @@
+{"name":"Categories","slug":"category","description":"","types":["post"],"hierarchical":true,"rest_base":"categories","_links":{"collection":[{"href":"../taxonomies"}],"wp:items":[{"href":"../categories"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
