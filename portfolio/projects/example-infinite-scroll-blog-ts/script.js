@@ -72,7 +72,7 @@ var app = new (/** @class */ (function () {
             var res;
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: return [4 /*yield*/, fetch("http://jsonplaceholder.typicode.com/posts?_limit=" + this.limit + "&_page=" + this.page)];
+                    case 0: return [4 /*yield*/, fetch("https://jsonplaceholder.typicode.com/posts?_limit=" + this.limit + "&_page=" + this.page)];
                     case 1:
                         res = _a.sent();
                         return [4 /*yield*/, res.json()];
