@@ -7,7 +7,7 @@ var swap = document.getElementById("swap");
 var calculate = function () {
     var currencyOne = currencyElementOne.value;
     var currencyTwo = currencyElementTwo.value;
-    fetch("https://v6.exchangerate-api.com/v6/27c9f4cf9d5b967c980b0e5e/latest/" + currencyOne)
+    fetch("../../../../https@v6.exchangerate-api.com\v6\27c9f4cf9d5b967c980b0e5e\latest\" + currencyOne)
         .then(function (res) { return res.json(); })
         .then(function (data) {
         var rate = Number(data.conversion_rates[currencyTwo]);

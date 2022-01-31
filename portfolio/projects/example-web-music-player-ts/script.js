@@ -48,20 +48,20 @@ var app = new (/** @class */ (function () {
     class_1.prototype.playSong = function () {
         this.htmlElements.musicContainer.classList.add("play");
         this.htmlElements.playButton
-            .querySelector("i.fas.htm")
+            .querySelector("i.fas")
             .classList.remove("fa-play");
         this.htmlElements.playButton
-            .querySelector("i.fas.htm")
+            .querySelector("i.fas")
             .classList.add("fa-pause");
         this.htmlElements.audio.play();
     };
     class_1.prototype.pauseSong = function () {
         this.htmlElements.musicContainer.classList.remove("play");
         this.htmlElements.playButton
-            .querySelector("i.fas.htm")
+            .querySelector("i.fas")
             .classList.add("fa-play");
         this.htmlElements.playButton
-            .querySelector("i.fas.htm")
+            .querySelector("i.fas")
             .classList.remove("fa-pause");
         this.htmlElements.audio.pause();
     };

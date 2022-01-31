@@ -1,1 +1,0 @@
-{"name":"Tags","slug":"post_tag","description":"","types":["post"],"hierarchical":false,"rest_base":"tags","_links":{"collection":[{"href":"https://marqgray.github.io/wp-json/wp/v2/taxonomies"}],"wp:items":[{"href":"https://marqgray.github.io/wp-json/wp/v2/tags"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
