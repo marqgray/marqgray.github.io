@@ -48,20 +48,20 @@ var app = new (/** @class */ (function () {
     class_1.prototype.playSong = function () {
         this.htmlElements.musicContainer.classList.add("play");
         this.htmlElements.playButton
-            .querySelector("https://marqgray.github.io/portfolio/projects/example-web-music-player-ts/i.fas")
+            .querySelector("i.fas.htm")
             .classList.remove("fa-play");
         this.htmlElements.playButton
-            .querySelector("i.fas")
+            .querySelector("i.fas.htm")
             .classList.add("fa-pause");
         this.htmlElements.audio.play();
     };
     class_1.prototype.pauseSong = function () {
         this.htmlElements.musicContainer.classList.remove("play");
         this.htmlElements.playButton
-            .querySelector("i.fas")
+            .querySelector("i.fas.htm")
             .classList.add("fa-play");
         this.htmlElements.playButton
-            .querySelector("i.fas")
+            .querySelector("i.fas.htm")
             .classList.remove("fa-pause");
         this.htmlElements.audio.pause();
     };
