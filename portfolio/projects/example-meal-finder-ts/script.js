@@ -34,7 +34,7 @@ var app = new (/** @class */ (function () {
         var _this = this;
         this.htmlElements.mealsElement.innerHTML = "";
         this.htmlElements.resultHeading.innerHTML = "";
-        fetch("../../../../www.themealdb.com/api/json/v1/1/random.php")
+        fetch("http://www.themealdb.com/api/json/v1/1/random.php")
             .then(function (res) { return res.json(); })
             .then(function (data) {
             var meal = data.meals[0];
@@ -43,7 +43,7 @@ var app = new (/** @class */ (function () {
     };
     class_1.prototype.getMealById = function (mealId) {
         var _this = this;
-        fetch("../../../../www.themealdb.com/api/json/v1/1/lookup.php@i=" + mealId)
+        fetch("http://www.themealdb.com/api/json/v1/1/lookup.php?i=" + mealId)
             .then(function (res) { return res.json(); })
             .then(function (data) {
             var meal = data.meals[0];
@@ -70,7 +70,7 @@ var app = new (/** @class */ (function () {
         this.htmlElements.singleMealElement.innerHTML = "";
         var term = this.htmlElements.search.value;
         if (term.trim()) {
-            fetch("../../../../www.themealdb.com/api/json/v1/1/search.php@s=" + term)
+            fetch("http://www.themealdb.com/api/json/v1/1/search.php?s=" + term)
                 .then(function (res) { return res.json(); })
                 .then(function (data) {
                 _this.htmlElements.resultHeading.innerHTML = "<h2>Search results for \"" + term + "\":</h2>";

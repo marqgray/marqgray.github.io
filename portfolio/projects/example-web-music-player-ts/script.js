@@ -48,7 +48,7 @@ var app = new (/** @class */ (function () {
     class_1.prototype.playSong = function () {
         this.htmlElements.musicContainer.classList.add("play");
         this.htmlElements.playButton
-            .querySelector("i.fas")
+            .querySelector("https://marqgray.github.io/portfolio/projects/example-web-music-player-ts/i.fas")
             .classList.remove("fa-play");
         this.htmlElements.playButton
             .querySelector("i.fas")
