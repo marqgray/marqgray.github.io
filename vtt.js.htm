@@ -37,9 +37,9 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css'  href='https://marqgray.github.io/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' media='all' />
-<link rel='stylesheet' id='kalium-bootstrap-css-css'  href='https://marqgray.github.io/wp-content/themes/kalium/assets/css/bootstrap.min.css?ver=3.4.4.001' media='all' />
-<link rel='stylesheet' id='kalium-theme-base-css-css'  href='https://marqgray.github.io/wp-content/themes/kalium/assets/css/base.min.css?ver=3.4.4.001' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://marqgray.github.io/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<link rel='stylesheet' id='kalium-bootstrap-css-css'  href='https://marqgray.github.io/wp-content/themes/kalium/assets/css/bootstrap.min.css' media='all' />
+<link rel='stylesheet' id='kalium-theme-base-css-css'  href='https://marqgray.github.io/wp-content/themes/kalium/assets/css/base.min.css' media='all' />
 <link rel='stylesheet' id='kalium-theme-style-new-css-css'  href='https://marqgray.github.io/wp-content/themes/kalium/assets/css/new/style.min.css?ver=3.4.4.001' media='all' />
 <link rel='stylesheet' id='kalium-theme-other-css-css'  href='https://marqgray.github.io/wp-content/themes/kalium/assets/css/other.min.css?ver=3.4.4.001' media='all' />
 <link rel='stylesheet' id='kalium-style-css-css'  href='https://marqgray.github.io/wp-content/themes/kalium/style.css?ver=3.4.4.001' media='all' />
